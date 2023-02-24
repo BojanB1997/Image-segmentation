@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Analog Devices/CrossCore Embedded Studio 2.11.1/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Wed Feb  1 22:16:43 2023
+'>
+<MSG id='03FF7D80' mid='li3140' type='Informational' >
+<TEXT><![CDATA[The following serial numbers are due to expire:
+EVAL-CCES-R5DY-3J6E-DCMR-8NEK-R8C6-ZRSG-R601 expires in 4 days.
+]]></TEXT>
+</MSG>
+<MSG id='04252C58' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'dxe_block0_nw_code']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    app_startup.doj(seg_pmco)
+    app_startup.doj(seg_pmco)
+    libcc.dlb[divrem_s32.doj](seg_pmco)
+    libcc.dlb[divrem_s64.doj](seg_pmco)
+    libcc.dlb[divrem_u32.doj](seg_pmco)
+    libcc.dlb[divrem_u64.doj](seg_pmco)
+    libcc.dlb[float_divide.doj](seg_pmco)
+    libcc.dlb[flt_sprt.doj](seg_pmco)
+    libcc.dlb[lib_ldtof.doj](seg_pmco)
+    libcc.dlb[strlen.doj](seg_pmco)
+    libc.dlb[adi_fatal_error.doj](seg_pmco)
+    libc.dlb[dispatched_handler_activate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_deactivate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_register.doj](seg_pmco)
+    libc.dlb[dispatched_handler_unregister.doj](seg_pmco)
+    libc.dlb[fatal_error.doj](seg_pmco)
+    libc.dlb[int_dispatcher_214xx.doj](seg_pmco)
+    libc.dlb[isinff.doj](seg_pmco)
+    libc.dlb[no_dispatched_handler.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+<MSG id='04251D78' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'dxe_block0_nw_code_prio3']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    app_startup.doj(seg_pmco)
+    app_startup.doj(seg_pmco)
+    libcc.dlb[divrem_s32.doj](seg_pmco)
+    libcc.dlb[divrem_s64.doj](seg_pmco)
+    libcc.dlb[divrem_u32.doj](seg_pmco)
+    libcc.dlb[divrem_u64.doj](seg_pmco)
+    libcc.dlb[float_divide.doj](seg_pmco)
+    libcc.dlb[flt_sprt.doj](seg_pmco)
+    libcc.dlb[lib_ldtof.doj](seg_pmco)
+    libcc.dlb[strlen.doj](seg_pmco)
+    libc.dlb[adi_fatal_error.doj](seg_pmco)
+    libc.dlb[dispatched_handler_activate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_deactivate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_register.doj](seg_pmco)
+    libc.dlb[dispatched_handler_unregister.doj](seg_pmco)
+    libc.dlb[fatal_error.doj](seg_pmco)
+    libc.dlb[int_dispatcher_214xx.doj](seg_pmco)
+    libc.dlb[isinff.doj](seg_pmco)
+    libc.dlb[no_dispatched_handler.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+</DOCUMENT>
